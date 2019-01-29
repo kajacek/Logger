@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Logger")]         // atrybuty
+[assembly: AssemblyTitle("FileLogger")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Logger")]
+[assembly: AssemblyProduct("FileLogger")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fb23befe-8273-422c-ab30-b864b999a8e5")]
+[assembly: Guid("94b34f41-a574-4862-b937-602940bb9224")]
 
 // Version information for an assembly consists of the following four values:
 //
